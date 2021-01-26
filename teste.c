@@ -3,6 +3,6 @@
 
 int main(){
 
-    std::cout<<"Atenção boiolas"<<std::endl;
+    std::cout<<"Atenção boiolas incoerentes"<<std::endl;
     return 0;
 }
