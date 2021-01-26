@@ -3,6 +3,9 @@
 
 int main(){
 
-    std::cout<<"Atenção boiolas"<<std::endl;
+
+    std::cout<<"Atenção boiolas natos";
+    std::cout<<"e incoerentes!!!!!"<<std::endl;
+
     return 0;
 }
